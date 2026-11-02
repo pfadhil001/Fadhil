@@ -1,4 +1,4 @@
-names = ["Surtr", "Francisca", "Kiara", "Lemuel"]
+names = ["jefri", "nana", "kiki", "meri"]
 print(f"Halo {names[0]}, apa kabar?")
 print(f"Halo {names[1]}, apa kabar?")
 print(f"Halo {names[2]}, apa kabar?")

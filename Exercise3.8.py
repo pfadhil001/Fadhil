@@ -1,4 +1,4 @@
-tempat = ["Jepang", "Swiss", "Mesir", "Islandia", "Selandia Baru"]
+tempat = ["Jepang","Mesir",  "Islandia","Swiss",  "Selandia Baru"]
 print(tempat)
 print(sorted(tempat))
 print(tempat)

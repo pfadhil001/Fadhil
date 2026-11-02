@@ -1,4 +1,4 @@
-names = ["Surtr", "Lemuel", "Kiara", "Fracisca"]
+names = ["Rusdi", "Gifari", "baba", "Frat"]
 print(names[0])
 print(names[1])
 print(names[2])

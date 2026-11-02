@@ -1,6 +1,6 @@
-# Bell
-# 30 Oktober 2026
-# Program ini mencetak pesan "Hello Python world!" ke layar.
-
-message = "Hello Python world!"
+# EZ deckkkk
+message = "halo industrial"
 print(message)
+#whn y
+nama = "Qeela"
+print("Halo", nama , "Bagaimana Harimu")

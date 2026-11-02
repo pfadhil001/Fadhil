@@ -1,7 +1,7 @@
 tamu = ["Galileo Galilei", "Albert Einstein", "Charles Darwin", "Marie Curie", "Leonardo da Vinci", "Thomas Edison"]
 print("Maaf, saya hanya bisa mengundang dua orang untuk makan malam.")
 
-tamu_batal = tamu.pop()
+tamu_batal = tamu.pop(5)
 print(f"Maaf {tamu_batal}, saya tidak bisa mengundangmu makan malam.")
 tamu_batal = tamu.pop()
 print(f"Maaf {tamu_batal}, saya tidak bisa mengundangmu makan malam.")

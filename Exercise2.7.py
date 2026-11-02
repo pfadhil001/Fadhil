@@ -1,4 +1,4 @@
-nama = "\t\nBronya Zaychik\n\t"
+nama = "\t\nQeela\n\t"
 print(nama)
 print(nama.lstrip())
 print(nama.rstrip())

@@ -7,4 +7,4 @@ for makanan in makanan_saya:
     print(makanan)
 print("\nMakanan favorit teman saya adalah:")
 for makanan in makanan_teman:
-    print(makanan)
+    print(makanan) 
