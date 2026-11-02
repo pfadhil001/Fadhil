@@ -16,4 +16,4 @@ ps.display_message()
 
 # Cara 5: from module_name import *
 from pesan import *
-display_message()
+display_message() 

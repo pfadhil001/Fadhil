@@ -5,4 +5,4 @@ def make_shirt(size, text):
 
 
 make_shirt("L", "Saya suka Python!")
-make_shirt(size="M", text="Halo Dunia!")
+make_shirt(size="M", text="Halo Dunia!") 

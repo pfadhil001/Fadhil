@@ -4,4 +4,4 @@ hewan_3 = {"jenis": "burung", "pemilik": "Pepe"}
 pets = [hewan_1, hewan_2, hewan_3]
 for hewan in pets:
     print(f"Jenis: {hewan['jenis']}")
-    print(f"Pemilik: {hewan['pemilik']}\n")
+    print(f"Pemilik: {hewan['pemilik']}\n") 

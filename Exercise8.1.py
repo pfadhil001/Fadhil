@@ -3,4 +3,4 @@ def display_message():
     print("Di bab ini saya belajar cara menulis fungsi di Python.")
 
 
-display_message()
+display_message() 

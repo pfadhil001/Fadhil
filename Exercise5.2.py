@@ -5,15 +5,15 @@ print("\nApakah 'apel' == 'jeruk'? Saya prediksi Salah.")
 print("apel" == "jeruk")
 print("\nApakah 'apel' != 'jeruk'? Saya prediksi Benar.")
 print("apel" != "jeruk")
-print("\nApakah 'apel' != 'apel'? Saya prediksi Salah.")
+print("\nApakah 'apel' != 'apel' ? Saya prediksi Salah.")
 print("apel" != "apel")
-
+ 
 # Tes menggunakan lower()
 print("\nApakah 'Budi'.lower() == 'budi'? Saya prediksi Benar.")
 print("Budi".lower() == "budi")
 print("\nApakah 'Budi'.lower() == 'Budi'? Saya prediksi Salah.")
 print("Budi".lower() == "Budi")
-
+ 
 # Tes angka
 print("\nApakah 5 == 5? Saya prediksi Benar.")
 print(5 == 5)

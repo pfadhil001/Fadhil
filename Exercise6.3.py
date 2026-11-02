@@ -4,7 +4,7 @@ glosarium = {
     "integer": "Bilangan bulat, tanpa bagian desimal.",
     "float": "Bilangan desimal, seperti 3,14.",
     "comment": "Catatan di dalam kode yang tidak dijalankan Python.",
-}
+} 
 print("string:")
 print("\tSerangkaian karakter yang diapit tanda kutip.\n")
 print("list:")

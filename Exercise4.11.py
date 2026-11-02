@@ -7,4 +7,4 @@ for p in pizza:
     print(p)
 print("\nPizza favorit teman saya adalah:")
 for p in pizza_teman:
-    print(p)
+    print(p) 

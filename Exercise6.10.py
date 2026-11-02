@@ -8,4 +8,4 @@ angka_favorit = {
 for nama, angka in angka_favorit.items():
     print(f"\nAngka favorit {nama} adalah:")
     for a in angka:
-        print(f"- {a}")
+        print(f"- {a}") 

@@ -7,7 +7,7 @@ topping = ""
 while topping != "quit":
     topping = input(prompt)
     if topping != "quit":
-        print(f"Saya akan menambahkan {topping} ke pizza Anda.")
+        print(f"Saya akan menambahkan {topping} ke pizza Anda.") 
 
 # Versi 2: variabel aktif
 print("\n--- Versi 2: variabel aktif ---")

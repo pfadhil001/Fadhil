@@ -11,4 +11,4 @@ glosarium = {
     "variable": "Nama yang merujuk pada suatu nilai.",
 }
 for kata, arti in glosarium.items():
-    print(f"{kata}:\n\t{arti}\n")
+    print(f"{kata}:\n\t{arti}\n") 

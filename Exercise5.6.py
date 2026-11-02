@@ -9,5 +9,5 @@ elif umur < 20:
     print("Orang ini masih remaja.")
 elif umur < 65:
     print("Orang ini sudah dewasa.")
-else:
+else: 
     print("Orang ini sudah lansia.")

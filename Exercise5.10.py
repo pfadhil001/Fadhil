@@ -5,4 +5,4 @@ for nama_baru in pengguna_baru:
     if nama_baru.lower() in pengguna_saat_ini_kecil:
         print(f"Nama pengguna {nama_baru} sudah dipakai, silakan pilih nama lain.")
     else:
-        print(f"Nama pengguna {nama_baru} tersedia.")
+        print(f"Nama pengguna {nama_baru} tersedia.") 

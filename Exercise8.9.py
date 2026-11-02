@@ -5,4 +5,4 @@ def show_messages(messages):
 
 
 pesan = ["Halo!", "Apa kabar?", "Sampai jumpa!"]
-show_messages(pesan)
+show_messages(pesan) 

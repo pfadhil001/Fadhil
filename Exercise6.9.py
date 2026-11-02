@@ -6,4 +6,4 @@ tempat_favorit = {
 for nama, tempat in tempat_favorit.items():
     print(f"\nTempat favorit {nama} adalah:")
     for t in tempat:
-        print(f"- {t}")
+        print(f"- {t}") 

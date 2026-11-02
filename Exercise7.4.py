@@ -5,4 +5,4 @@ while True:
     if topping == "quit":
         break
     else:
-        print(f"Saya akan menambahkan {topping} ke pizza Anda.")
+        print(f"Saya akan menambahkan {topping} ke pizza Anda.") 

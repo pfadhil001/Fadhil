@@ -7,4 +7,4 @@ for a in angka:
     elif a == 3:
         print("3rd")
     else:
-        print(f"{a}th")
+        print(f"{a}th") 

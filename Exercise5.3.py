@@ -6,4 +6,4 @@ if warna_alien == "hijau":
 # Versi yang gagal tes if (tidak ada output)
 warna_alien = "merah"
 if warna_alien == "hijau":
-    print("Kamu baru saja mendapat 5 poin!")
+    print("Kamu baru saja mendapat 5 poin!") 

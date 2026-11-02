@@ -9,7 +9,7 @@ else:
     print("Kita harus mencari beberapa pengguna!")
 
 nama_pengguna = []
-if nama_pengguna:
+if nama_pengguna: 
     for nama in nama_pengguna:
         if nama == "admin":
             print("Halo admin, apakah kamu mau melihat laporan status?")

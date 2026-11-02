@@ -15,5 +15,5 @@ while True:
     title = input("Judul album: ")
     if title == "q":
         break
-    album = make_album(artist, title)
+    album = make_album(artist, title) 
     print(album)

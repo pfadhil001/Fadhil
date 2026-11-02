@@ -10,7 +10,7 @@ print(mobil != "audi")
 
 print("\nApakah mobil != 'subaru'? Saya prediksi Salah.")
 print(mobil != "subaru")
-
+ 
 print("\nApakah mobil == 'Subaru'? Saya prediksi Salah.")
 print(mobil == "Subaru")
 

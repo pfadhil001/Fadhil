@@ -9,4 +9,4 @@ while polling_active:
         polling_active = False
 print("\n--- Hasil Survei ---")
 for nama, response in responses.items():
-    print(f"{nama} ingin pergi ke {response}.")
+    print(f"{nama} ingin pergi ke {response}.") 

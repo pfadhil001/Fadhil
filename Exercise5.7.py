@@ -8,4 +8,4 @@ if "pisang" in buah_favorit:
 if "jeruk" in buah_favorit:
     print("Kamu sangat suka jeruk!")
 if "anggur" in buah_favorit:
-    print("Kamu sangat suka anggur!")
+    print("Kamu sangat suka anggur!") 

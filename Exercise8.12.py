@@ -7,4 +7,4 @@ def make_sandwich(*items):
 
 make_sandwich("keju")
 make_sandwich("tuna", "selada")
-make_sandwich("ayam", "tomat", "keju", "mayones")
+make_sandwich("ayam", "tomat", "keju", "mayones") 

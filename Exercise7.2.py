@@ -3,4 +3,4 @@ jumlah = int(jumlah)
 if jumlah > 8:
     print("Anda harus menunggu meja.")
 else:
-    print("Meja Anda sudah siap.")
+    print("Meja Anda sudah siap.") 

@@ -11,4 +11,4 @@ def show_completed_models(completed_models):
     """Menampilkan semua model yang sudah dicetak."""
     print("\nModel berikut sudah dicetak:")
     for completed_model in completed_models:
-        print(completed_model)
+        print(completed_model) 

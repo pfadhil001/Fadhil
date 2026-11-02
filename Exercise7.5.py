@@ -6,6 +6,6 @@ while True:
     if umur < 3:
         print("Tiket Anda gratis.")
     elif umur <= 12:
-        print("Tiket Anda 10 dolar.")
+        print("Tiket Anda 10 dolar.") 
     else:
         print("Tiket Anda 15 dolar.")

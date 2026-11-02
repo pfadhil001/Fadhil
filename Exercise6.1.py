@@ -7,4 +7,4 @@ orang = {
 print(orang["first_name"])
 print(orang["last_name"])
 print(orang["age"])
-print(orang["city"])
+print(orang["city"]) 

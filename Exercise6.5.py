@@ -12,4 +12,4 @@ for nama_sungai in sungai.keys():
 
 print("\nNama negara:")
 for negara in sungai.values():
-    print(negara)
+    print(negara) 

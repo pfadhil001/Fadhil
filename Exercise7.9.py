@@ -9,4 +9,4 @@ while sandwich_orders:
     finished_sandwiches.append(sandwich)
 print("\nSemua sandwich sudah selesai dibuat:")
 for sandwich in finished_sandwiches:
-    print(sandwich)
+    print(sandwich) 

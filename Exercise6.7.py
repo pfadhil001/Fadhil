@@ -5,4 +5,4 @@ people = [orang_1, orang_2, orang_3]
 for orang in people:
     print(f"Nama: {orang['first_name']} {orang['last_name']}")
     print(f"Umur: {orang['age']}")
-    print(f"Kota: {orang['city']}\n")
+    print(f"Kota: {orang['city']}\n") 

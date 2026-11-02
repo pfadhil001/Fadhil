@@ -9,7 +9,7 @@ profil = build_profile(
     "Abelardy",
     "Belva",
     lokasi="Solo",
-    bidang="Teknik Industri",
+    bidang="Teknik Industri", 
     hobi="Kuda",
 )
 print(profil)

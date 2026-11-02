@@ -10,7 +10,7 @@ else:
 # Versi alien kuning
 warna_alien = "kuning"
 if warna_alien == "hijau":
-    print("Kamu baru saja mendapat 5 poin!")
+    print("Kamu baru saja mendapat 5 poin!") 
 elif warna_alien == "kuning":
     print("Kamu baru saja mendapat 10 poin!")
 else:

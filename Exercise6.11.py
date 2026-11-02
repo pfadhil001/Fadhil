@@ -13,7 +13,7 @@ kota = {
         "country": "Jepang",
         "population": 1_460_000,
         "fact": "Terkenal dengan kuil dan bunga sakura.",
-    },
+    }, 
 }
 for nama_kota, info in kota.items():
     print(f"\n{nama_kota}:")
